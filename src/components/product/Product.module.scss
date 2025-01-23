@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+    background-color: #f0f8ff; /* AliceBlue */
+    padding: 50px;
+}
+.product {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #dcdcdc; /* Gainsboro */
+    background-color: #ffffff; /* White */
+}
+.productImageArea {
+    border-right: 1px solid #dcdcdc; /* Gainsboro */
+}
+.productDetails {
+}
