@@ -7,7 +7,7 @@ interface ProductProps {
 }
 
 const Product: React.FC<ProductProps> = ({ productId, onAddToCart }) => {
-  const title = "Essence Mascara Lash Princess";
+  const title = "Essence Mascara Lash Princess <COMING SOON>";
   const image =
     "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png";
   const price = 19.99 - 5;
